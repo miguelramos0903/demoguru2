@@ -1,0 +1,6 @@
+co/com/capgemini/retodemo/tasks/RegistroUsuarioTask.java
+ co.com.capgemini.retodemo.tasks.RegistroUsuarioTask
+co/com/capgemini/retodemo/questions/VerificarRegistroUsuarioQuestions.java
+ co.com.capgemini.retodemo.questions.VerificarRegistroUsuarioQuestions
+co/com/capgemini/retodemo/userinterfaces/registro/RegistroUsuarioPage.java
+ co.com.capgemini.retodemo.userinterfaces.registro.RegistroUsuarioPage

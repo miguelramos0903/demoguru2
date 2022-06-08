@@ -1,0 +1,4 @@
+co/com/capgemini/retodemo/runners/RegistroUsuario.java
+ co.com.capgemini.retodemo.runners.RegistroUsuario
+co/com/capgemini/retodemo/stepdefinitions/RegistroUsuarioStepDefinitions.java
+ co.com.capgemini.retodemo.stepdefinitions.RegistroUsuarioStepDefinitions
